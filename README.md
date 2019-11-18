@@ -1,1 +1,1 @@
-This repository is mainly intended for trying out ML technqiues I have never tried before, testing out any hypothesis my brain generates, and getting hands-on practice to learn new concepts. The goal of this is my personal development as a Data Scientist.
+This repository is mainly intended for trying out ML technqiues I have never tried before, testing out new hypothesis that come to mind, and getting hands-on practice to learn new concepts. The goal of this is my personal development as a Data Scientist.
